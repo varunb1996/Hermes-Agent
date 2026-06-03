@@ -1,5 +1,3 @@
-Architecture.md
-
 HermesForge-X Architecture
 
 High-Level System Overview

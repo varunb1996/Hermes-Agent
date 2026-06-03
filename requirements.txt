@@ -1,0 +1,12 @@
+smolagents
+openai
+duckduckgo-search
+chromadb
+sentence-transformers
+python-dotenv
+rich
+pandas
+openai
+fastapi
+uvicorn
+python-dotenv

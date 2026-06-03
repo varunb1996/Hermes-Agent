@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Persistent Sessions
+chrome_profile/
+edge_profile/
+
+# Vector DB
+memory/chroma_db/
+
+# Generated Files
+workspace/generated_projects/
+
+# OS files
+.DS_Store
+Thumbs.db
